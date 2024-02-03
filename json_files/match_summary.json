@@ -1,0 +1,434 @@
+[
+  {
+    "Team 1": "India",
+    "Team 2": "Australia",
+    "Winner": "Australia",
+    "Margin": "6 wickets",
+    "Ground": "Ahmedabad",
+    "Match Date": "Nov 19, 2023",
+    "Scorecard": "ODI # 4705"
+  },
+  {
+    "Team 1": "Australia",
+    "Team 2": "South Africa",
+    "Winner": "Australia",
+    "Margin": "3 wickets",
+    "Ground": "Eden Gardens",
+    "Match Date": "Nov 16, 2023",
+    "Scorecard": "ODI # 4704"
+  },
+  {
+    "Team 1": "India",
+    "Team 2": "New Zealand",
+    "Winner": "India",
+    "Margin": "70 runs",
+    "Ground": "Wankhede",
+    "Match Date": "Nov 15, 2023",
+    "Scorecard": "ODI # 4703"
+  },
+  {
+    "Team 1": "India",
+    "Team 2": "Netherlands",
+    "Winner": "India",
+    "Margin": "160 runs",
+    "Ground": "Bengaluru",
+    "Match Date": "Nov 12, 2023",
+    "Scorecard": "ODI # 4702"
+  },
+  {
+    "Team 1": "England",
+    "Team 2": "Pakistan",
+    "Winner": "England",
+    "Margin": "93 runs",
+    "Ground": "Eden Gardens",
+    "Match Date": "Nov 11, 2023",
+    "Scorecard": "ODI # 4701"
+  },
+  {
+    "Team 1": "Australia",
+    "Team 2": "Bangladesh",
+    "Winner": "Australia",
+    "Margin": "8 wickets",
+    "Ground": "Pune",
+    "Match Date": "Nov 11, 2023",
+    "Scorecard": "ODI # 4700"
+  },
+  {
+    "Team 1": "Afghanistan",
+    "Team 2": "South Africa",
+    "Winner": "South Africa",
+    "Margin": "5 wickets",
+    "Ground": "Ahmedabad",
+    "Match Date": "Nov 10, 2023",
+    "Scorecard": "ODI # 4699"
+  },
+  {
+    "Team 1": "New Zealand",
+    "Team 2": "Sri Lanka",
+    "Winner": "New Zealand",
+    "Margin": "5 wickets",
+    "Ground": "Bengaluru",
+    "Match Date": "Nov 9, 2023",
+    "Scorecard": "ODI # 4698"
+  },
+  {
+    "Team 1": "England",
+    "Team 2": "Netherlands",
+    "Winner": "England",
+    "Margin": "160 runs",
+    "Ground": "Pune",
+    "Match Date": "Nov 8, 2023",
+    "Scorecard": "ODI # 4697"
+  },
+  {
+    "Team 1": "Afghanistan",
+    "Team 2": "Australia",
+    "Winner": "Australia",
+    "Margin": "3 wickets",
+    "Ground": "Wankhede",
+    "Match Date": "Nov 7, 2023",
+    "Scorecard": "ODI # 4696"
+  },
+  {
+    "Team 1": "Bangladesh",
+    "Team 2": "Sri Lanka",
+    "Winner": "Bangladesh",
+    "Margin": "3 wickets",
+    "Ground": "Delhi",
+    "Match Date": "Nov 6, 2023",
+    "Scorecard": "ODI # 4695"
+  },
+  {
+    "Team 1": "India",
+    "Team 2": "South Africa",
+    "Winner": "India",
+    "Margin": "243 runs",
+    "Ground": "Eden Gardens",
+    "Match Date": "Nov 5, 2023",
+    "Scorecard": "ODI # 4694"
+  },
+  {
+    "Team 1": "Australia",
+    "Team 2": "England",
+    "Winner": "Australia",
+    "Margin": "33 runs",
+    "Ground": "Ahmedabad",
+    "Match Date": "Nov 4, 2023",
+    "Scorecard": "ODI # 4693"
+  },
+  {
+    "Team 1": "New Zealand",
+    "Team 2": "Pakistan",
+    "Winner": "Pakistan",
+    "Margin": "21 runs",
+    "Ground": "Bengaluru",
+    "Match Date": "Nov 4, 2023",
+    "Scorecard": "ODI # 4692"
+  },
+  {
+    "Team 1": "Afghanistan",
+    "Team 2": "Netherlands",
+    "Winner": "Afghanistan",
+    "Margin": "7 wickets",
+    "Ground": "Lucknow",
+    "Match Date": "Nov 3, 2023",
+    "Scorecard": "ODI # 4691"
+  },
+  {
+    "Team 1": "India",
+    "Team 2": "Sri Lanka",
+    "Winner": "India",
+    "Margin": "302 runs",
+    "Ground": "Wankhede",
+    "Match Date": "Nov 2, 2023",
+    "Scorecard": "ODI # 4690"
+  },
+  {
+    "Team 1": "New Zealand",
+    "Team 2": "South Africa",
+    "Winner": "South Africa",
+    "Margin": "190 runs",
+    "Ground": "Pune",
+    "Match Date": "Nov 1, 2023",
+    "Scorecard": "ODI # 4689"
+  },
+  {
+    "Team 1": "Bangladesh",
+    "Team 2": "Pakistan",
+    "Winner": "Pakistan",
+    "Margin": "7 wickets",
+    "Ground": "Eden Gardens",
+    "Match Date": "Oct 31, 2023",
+    "Scorecard": "ODI # 4688"
+  },
+  {
+    "Team 1": "Afghanistan",
+    "Team 2": "Sri Lanka",
+    "Winner": "Afghanistan",
+    "Margin": "7 wickets",
+    "Ground": "Pune",
+    "Match Date": "Oct 30, 2023",
+    "Scorecard": "ODI # 4687"
+  },
+  {
+    "Team 1": "India",
+    "Team 2": "England",
+    "Winner": "India",
+    "Margin": "100 runs",
+    "Ground": "Lucknow",
+    "Match Date": "Oct 29, 2023",
+    "Scorecard": "ODI # 4686"
+  },
+  {
+    "Team 1": "Bangladesh",
+    "Team 2": "Netherlands",
+    "Winner": "Netherlands",
+    "Margin": "87 runs",
+    "Ground": "Eden Gardens",
+    "Match Date": "Oct 28, 2023",
+    "Scorecard": "ODI # 4685"
+  },
+  {
+    "Team 1": "Australia",
+    "Team 2": "New Zealand",
+    "Winner": "Australia",
+    "Margin": "5 runs",
+    "Ground": "Dharamsala",
+    "Match Date": "Oct 28, 2023",
+    "Scorecard": "ODI # 4684"
+  },
+  {
+    "Team 1": "Pakistan",
+    "Team 2": "South Africa",
+    "Winner": "South Africa",
+    "Margin": "1 wicket",
+    "Ground": "Chennai",
+    "Match Date": "Oct 27, 2023",
+    "Scorecard": "ODI # 4683"
+  },
+  {
+    "Team 1": "England",
+    "Team 2": "Sri Lanka",
+    "Winner": "Sri Lanka",
+    "Margin": "8 wickets",
+    "Ground": "Bengaluru",
+    "Match Date": "Oct 26, 2023",
+    "Scorecard": "ODI # 4682"
+  },
+  {
+    "Team 1": "Australia",
+    "Team 2": "Netherlands",
+    "Winner": "Australia",
+    "Margin": "309 runs",
+    "Ground": "Delhi",
+    "Match Date": "Oct 25, 2023",
+    "Scorecard": "ODI # 4681"
+  },
+  {
+    "Team 1": "Bangladesh",
+    "Team 2": "South Africa",
+    "Winner": "South Africa",
+    "Margin": "149 runs",
+    "Ground": "Wankhede",
+    "Match Date": "Oct 24, 2023",
+    "Scorecard": "ODI # 4680"
+  },
+  {
+    "Team 1": "Afghanistan",
+    "Team 2": "Pakistan",
+    "Winner": "Afghanistan",
+    "Margin": "8 wickets",
+    "Ground": "Chennai",
+    "Match Date": "Oct 23, 2023",
+    "Scorecard": "ODI # 4679"
+  },
+  {
+    "Team 1": "India",
+    "Team 2": "New Zealand",
+    "Winner": "India",
+    "Margin": "4 wickets",
+    "Ground": "Dharamsala",
+    "Match Date": "Oct 22, 2023",
+    "Scorecard": "ODI # 4678"
+  },
+  {
+    "Team 1": "England",
+    "Team 2": "South Africa",
+    "Winner": "South Africa",
+    "Margin": "229 runs",
+    "Ground": "Wankhede",
+    "Match Date": "Oct 21, 2023",
+    "Scorecard": "ODI # 4677"
+  },
+  {
+    "Team 1": "Netherlands",
+    "Team 2": "Sri Lanka",
+    "Winner": "Sri Lanka",
+    "Margin": "5 wickets",
+    "Ground": "Lucknow",
+    "Match Date": "Oct 21, 2023",
+    "Scorecard": "ODI # 4676"
+  },
+  {
+    "Team 1": "Australia",
+    "Team 2": "Pakistan",
+    "Winner": "Australia",
+    "Margin": "62 runs",
+    "Ground": "Bengaluru",
+    "Match Date": "Oct 20, 2023",
+    "Scorecard": "ODI # 4675"
+  },
+  {
+    "Team 1": "India",
+    "Team 2": "Bangladesh",
+    "Winner": "India",
+    "Margin": "7 wickets",
+    "Ground": "Pune",
+    "Match Date": "Oct 19, 2023",
+    "Scorecard": "ODI # 4674"
+  },
+  {
+    "Team 1": "Afghanistan",
+    "Team 2": "New Zealand",
+    "Winner": "New Zealand",
+    "Margin": "149 runs",
+    "Ground": "Chennai",
+    "Match Date": "Oct 18, 2023",
+    "Scorecard": "ODI # 4673"
+  },
+  {
+    "Team 1": "Netherlands",
+    "Team 2": "South Africa",
+    "Winner": "Netherlands",
+    "Margin": "38 runs",
+    "Ground": "Dharamsala",
+    "Match Date": "Oct 17, 2023",
+    "Scorecard": "ODI # 4672"
+  },
+  {
+    "Team 1": "Australia",
+    "Team 2": "Sri Lanka",
+    "Winner": "Australia",
+    "Margin": "5 wickets",
+    "Ground": "Lucknow",
+    "Match Date": "Oct 16, 2023",
+    "Scorecard": "ODI # 4671"
+  },
+  {
+    "Team 1": "Afghanistan",
+    "Team 2": "England",
+    "Winner": "Afghanistan",
+    "Margin": "69 runs",
+    "Ground": "Delhi",
+    "Match Date": "Oct 15, 2023",
+    "Scorecard": "ODI # 4670"
+  },
+  {
+    "Team 1": "India",
+    "Team 2": "Pakistan",
+    "Winner": "India",
+    "Margin": "7 wickets",
+    "Ground": "Ahmedabad",
+    "Match Date": "Oct 14, 2023",
+    "Scorecard": "ODI # 4669"
+  },
+  {
+    "Team 1": "Bangladesh",
+    "Team 2": "New Zealand",
+    "Winner": "New Zealand",
+    "Margin": "8 wickets",
+    "Ground": "Chennai",
+    "Match Date": "Oct 13, 2023",
+    "Scorecard": "ODI # 4668"
+  },
+  {
+    "Team 1": "Australia",
+    "Team 2": "South Africa",
+    "Winner": "South Africa",
+    "Margin": "134 runs",
+    "Ground": "Lucknow",
+    "Match Date": "Oct 12, 2023",
+    "Scorecard": "ODI # 4667"
+  },
+  {
+    "Team 1": "India",
+    "Team 2": "Afghanistan",
+    "Winner": "India",
+    "Margin": "8 wickets",
+    "Ground": "Delhi",
+    "Match Date": "Oct 11, 2023",
+    "Scorecard": "ODI # 4666"
+  },
+  {
+    "Team 1": "Pakistan",
+    "Team 2": "Sri Lanka",
+    "Winner": "Pakistan",
+    "Margin": "6 wickets",
+    "Ground": "Hyderabad",
+    "Match Date": "Oct 10, 2023",
+    "Scorecard": "ODI # 4665"
+  },
+  {
+    "Team 1": "Bangladesh",
+    "Team 2": "England",
+    "Winner": "England",
+    "Margin": "137 runs",
+    "Ground": "Dharamsala",
+    "Match Date": "Oct 10, 2023",
+    "Scorecard": "ODI # 4664"
+  },
+  {
+    "Team 1": "Netherlands",
+    "Team 2": "New Zealand",
+    "Winner": "New Zealand",
+    "Margin": "99 runs",
+    "Ground": "Hyderabad",
+    "Match Date": "Oct 9, 2023",
+    "Scorecard": "ODI # 4663"
+  },
+  {
+    "Team 1": "India",
+    "Team 2": "Australia",
+    "Winner": "India",
+    "Margin": "6 wickets",
+    "Ground": "Chennai",
+    "Match Date": "Oct 8, 2023",
+    "Scorecard": "ODI # 4662"
+  },
+  {
+    "Team 1": "South Africa",
+    "Team 2": "Sri Lanka",
+    "Winner": "South Africa",
+    "Margin": "102 runs",
+    "Ground": "Delhi",
+    "Match Date": "Oct 7, 2023",
+    "Scorecard": "ODI # 4661"
+  },
+  {
+    "Team 1": "Afghanistan",
+    "Team 2": "Bangladesh",
+    "Winner": "Bangladesh",
+    "Margin": "6 wickets",
+    "Ground": "Dharamsala",
+    "Match Date": "Oct 7, 2023",
+    "Scorecard": "ODI # 4660"
+  },
+  {
+    "Team 1": "Netherlands",
+    "Team 2": "Pakistan",
+    "Winner": "Pakistan",
+    "Margin": "81 runs",
+    "Ground": "Hyderabad",
+    "Match Date": "Oct 6, 2023",
+    "Scorecard": "ODI # 4659"
+  },
+  {
+    "Team 1": "England",
+    "Team 2": "New Zealand",
+    "Winner": "New Zealand",
+    "Margin": "9 wickets",
+    "Ground": "Ahmedabad",
+    "Match Date": "Oct 5, 2023",
+    "Scorecard": "ODI # 4658"
+  }
+]
